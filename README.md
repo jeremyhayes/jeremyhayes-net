@@ -1,1 +1,1 @@
-My personal branding site. Built with Bootstrap, adapted from the Narrow Jumbotron example.
+https://jeremyhayes.net
