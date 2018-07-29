@@ -19,3 +19,22 @@ body {
 .cover {
     padding: 0 1.5rem;
 }
+
+/* https://bootswatch.com/solar/ */
+body {
+    color: #839496;
+    background-color: #002B36;
+}
+
+.btn-outline-secondary {
+    color: #839496;
+    background-color: transparent;
+    background-image: none;
+    border-color: #839496;
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #839496;
+    border-color: #839496;
+}
